@@ -1,0 +1,298 @@
+﻿"Job vacancies, proportion of job vacancies and average offered hourly wage by occupation and selected characteristics, quarterly, unadjusted for seasonality c 1 2"
+"Frequency: Quarterly"
+"Table: 14-10-0443-01"
+"Release date: 2026-09-15"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Canada",,,,
+,"National Occupational Classification 3 4","Total, all occupations 5",,,,
+"Job vacancy characteristics","Statistics","Q2 2025","Q3 2025","Q4 2025","Q1 2026","Q2 2026"
+"Type of work, all types 6 7",,"Number",,,,
+,"Job vacancies 8","545,910A","514,465A","469,840A","473,035A","548,400A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","100.0","100.0","100.0","100.0","100.0"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.00A","28.45A","29.25A","29.55A","28.55A"
+"Full-time 6",,"Number",,,,
+,"Job vacancies 8","408,790A","380,525A","342,995A","358,090A","408,100A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","74.9A","74.0A","73.0A","75.7A","74.4A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","29.55A","30.30A","31.20A","31.25A","30.40A"
+"Part-time 7",,"Number",,,,
+,"Job vacancies 8","137,115A","133,940A","126,845A","114,940A","140,300A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","25.1A","26.0A","27.0A","24.3A","25.6A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","23.30A","23.10A","24.05A","24.25A","23.20A"
+"Minimum level of education required, all levels",,"Number",,,,
+,"Job vacancies 8","545,910A","514,465A","469,840A","473,035A","548,400A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","100.0","100.0","100.0","100.0","100.0"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.00A","28.45A","29.25A","29.55A","28.55A"
+"No minimum level of education required",,"Number",,,,
+,"Job vacancies 8","150,415A","144,140A","125,815A","116,855A","160,740A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","27.6A","28.0A","26.8A","24.7A","29.3A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","20.45A","20.70A","20.85A","21.35A","20.90A"
+"High school diploma or equivalent",,"Number",,,,
+,"Job vacancies 8","138,160A","123,000A","109,125A","115,240A","135,015A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","25.3A","23.9A","23.2A","24.4A","24.6A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","22.95A","23.35A","23.95A","24.00A","23.85A"
+"Non-university certificate or diploma",,"Number",,,,
+,"Job vacancies 8","151,215A","144,670A","135,960A","139,025A","150,310A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","27.7A","28.1A","28.9A","29.4A","27.4A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","30.10A","30.75A","31.00A","31.25A","31.05A"
+"University certificate or diploma below bachelor's level",,"Number",,,,
+,"Job vacancies 8","19,905A","22,090A","19,575A","20,790A","21,120A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","3.6A","4.3A","4.2A","4.4A","3.9A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","36.60A","35.85A","36.40A","36.70A","36.40A"
+"Bachelor's degree",,"Number",,,,
+,"Job vacancies 8","68,585A","63,465A","63,455A","65,295A","65,095A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","12.6A","12.3A","13.5A","13.8A","11.9A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","42.90A","42.85A","44.05A","43.60A","44.05A"
+"University certificate, diploma or degree above the bachelor's level",,"Number",,,,
+,"Job vacancies 8","17,635A","17,105A","15,910A","15,825A","16,110A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","3.2A","3.3A","3.4A","3.3A","2.9A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","46.40A","47.35A","49.60A","47.85A","48.85A"
+"Minimum experience level sought, all levels",,"Number",,,,
+,"Job vacancies 8","545,910A","514,465A","469,840A","473,035A","548,400A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","100.0","100.0","100.0","100.0","100.0"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.00A","28.45A","29.25A","29.55A","28.55A"
+"Less than 1 year",,"Number",,,,
+,"Job vacancies 8","233,185A","204,150A","189,550A","187,845A","242,805A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","42.7A","39.7A","40.3A","39.7A","44.3A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","23.55A","23.65A","24.25A","24.85A","23.95A"
+"1 year to less than 3 years",,"Number",,,,
+,"Job vacancies 8","190,245A","185,950A","163,220A","165,565A","179,800A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","34.8A","36.1A","34.7A","35.0A","32.8A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","25.95A","26.35A","26.95A","27.15A","26.70A"
+"3 years to less than 5 years",,"Number",,,,
+,"Job vacancies 8","60,495A","61,005A","56,420A","56,990A","61,045A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","11.1A","11.9A","12.0A","12.0A","11.1A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","33.95A","34.10A","34.75A","34.35A","34.55A"
+"5 years to less than 8 years",,"Number",,,,
+,"Job vacancies 8","49,645A","50,090A","47,890A","48,505A","51,010A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","9.1A","9.7A","10.2A","10.3A","9.3A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","42.25A","41.45A","42.90A","42.10A","41.90A"
+"8 years or more",,"Number",,,,
+,"Job vacancies 8","12,340A","13,275A","12,755A","14,130A","13,740A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","2.3A","2.6A","2.7A","3.0A","2.5A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","55.95A","56.20A","57.70A","57.50A","59.15A"
+"Duration of job vacancy, all durations 11 12",,"Number",,,,
+,"Job vacancies 8","545,910A","514,465A","469,840A","473,035A","548,400A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","100.0","100.0","100.0","100.0","100.0"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.00A","28.45A","29.25A","29.55A","28.55A"
+"Less than 15 days 12",,"Number",,,,
+,"Job vacancies 8","146,670A","135,825A","111,040A","122,170A","147,175A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","26.9A","26.4A","23.6A","25.8A","26.8A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","25.50A","25.90A","26.90A","27.20A","26.25A"
+"15 to 29 days 12",,"Number",,,,
+,"Job vacancies 8","106,390A","104,125A","91,910A","91,460A","110,590A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","19.5A","20.2A","19.6A","19.3A","20.2A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","27.35A","27.30A","28.15A","28.70A","27.60A"
+"30 to 59 days 12",,"Number",,,,
+,"Job vacancies 8","94,165A","90,565A","85,065A","84,690A","100,435A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","17.2A","17.6A","18.1A","17.9A","18.3A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","29.30A","30.25A","30.40A","30.95A","29.95A"
+"60 to 89 days 12",,"Number",,,,
+,"Job vacancies 8","48,450A","44,730A","47,700A","42,090A","48,390A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","8.9A","8.7A","10.2A","8.9A","8.8A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","31.10A","31.80A","31.60A","32.45A","31.45A"
+"90 days or more 12",,"Number",,,,
+,"Job vacancies 8","150,230A","139,225A","134,125A","132,625A","141,810A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","27.5A","27.1A","28.5A","28.0A","25.9A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","29.00A","29.50A","30.40A","30.45A","29.80A"
+"90 to 119 days 12",,"Number",,,,
+,"Job vacancies 8","26,830A","24,305A","22,530A","22,990A","26,515A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","4.9A","4.7A","4.8A","4.9A","4.8A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","30.05A","31.30A","32.10A","32.70A","31.35A"
+"120 days or more 12",,"Number",,,,
+,"Job vacancies 8","123,400A","114,915A","111,600A","109,630A","115,295A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","22.6A","22.3A","23.8A","23.2A","21.0A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.75A","29.10A","30.05A","29.95A","29.50A"
+"Continuity of recruitment, all categories 12 13",,"Number",,,,
+,"Job vacancies 8","545,910A","514,465A","469,840A","473,035A","548,400A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","100.0","100.0","100.0","100.0","100.0"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.00A","28.45A","29.25A","29.55A","28.55A"
+"Constantly recruiting 12 13",,"Number",,,,
+,"Job vacancies 8","232,015A","222,810A","203,165A","198,460A","220,330A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","42.5A","43.3A","43.2A","42.0A","40.2A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","26.50A","26.55A","27.45A","27.75A","26.90A"
+"Not constantly recruiting 12 13",,"Number",,,,
+,"Job vacancies 8","313,895A","291,655A","266,680A","274,570A","328,070A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","57.5A","56.7A","56.8A","58.0A","59.8A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","29.10A","29.85A","30.60A","30.85A","29.70A"
+"Type of position, all types",,"Number",,,,
+,"Job vacancies 8","545,910A","514,465A","469,840A","473,035A","548,400A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","100.0","100.0","100.0","100.0","100.0"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.00A","28.45A","29.25A","29.55A","28.55A"
+"Permanent 14",,"Number",,,,
+,"Job vacancies 8","429,780A","427,345A","389,095A","392,585A","428,200A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","78.7A","83.1A","82.8A","83.0A","78.1A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","28.95A","28.95A","29.75A","30.05A","29.55A"
+"Temporary (seasonal and non-seasonal) 15",,"Number",,,,
+,"Job vacancies 8","116,130A","87,120A","80,745A","80,450A","120,200A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","21.3A","16.9A","17.2A","17.0A","21.9A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","24.35A","25.95A","26.80A","27.15A","25.00A"
+"Seasonal 15 16",,"Number",,,,
+,"Job vacancies 8","83,565A","52,850A","48,275A","47,260A","84,385A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","72.0A","60.7A","59.8A","58.7A","70.2A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","22.70A","24.35A","25.10A","25.40A","23.50A"
+"Recruitment strategies, all types 17",,"Number",,,,
+,"Job vacancies 8","545,910A","514,465A","469,840A","473,035A","548,400A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","100.0","100.0","100.0","100.0","100.0"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Personal contacts, referrals, informal networks",,"Number",,,,
+,"Job vacancies 8","393,005A","367,980A","335,200A","335,560A","393,035A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","72.0A","71.5A","71.3A","70.9A","71.7A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Posting a "help-wanted" sign on the storefront of the location",,"Number",,,,
+,"Job vacancies 8","109,225A","100,645A","94,350A","91,840A","109,160A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","20.0A","19.6A","20.1A","19.4A","19.9A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Company website",,"Number",,,,
+,"Job vacancies 8","350,925A","335,095A","321,295A","319,890A","355,890A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","64.3A","65.1A","68.4A","67.6A","64.9A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Online job boards",,"Number",,,,
+,"Job vacancies 8","430,185A","406,715A","378,400A","382,050A","429,155A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","78.8A","79.1A","80.5A","80.8A","78.3A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Social media",,"Number",,,,
+,"Job vacancies 8","314,100A","290,290A","274,545A","275,085A","312,680A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","57.5A","56.4A","58.4A","58.2A","57.0A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Job or recruitment fairs at schools, colleges or universities",,"Number",,,,
+,"Job vacancies 8","154,075A","139,455A","137,280A","141,960A","149,560A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","28.2A","27.1A","29.2A","30.0A","27.3A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Government employment centre or website",,"Number",,,,
+,"Job vacancies 8","126,860A","112,050A","106,280A","102,740A","117,055A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","23.2A","21.8A","22.6A","21.7A","21.3A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Professional networking, headhunters or employment agency",,"Number",,,,
+,"Job vacancies 8","119,050A","112,490A","104,710A","101,265A","115,055A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","21.8A","21.9A","22.3A","21.4A","21.0A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Newspaper ads",,"Number",,,,
+,"Job vacancies 8","34,550A","30,755A","30,235A","27,025A","33,850A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","6.3A","6.0A","6.4A","5.7A","6.2A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+"Other recruitment strategies",,"Number",,,,
+,"Job vacancies 8","59,275A","52,920A","49,845A","50,755A","58,365A"
+,,"Percent",,,,
+,"Proportion of job vacancies 9","10.9A","10.3A","10.6A","10.7A","10.6A"
+,,"Dollars",,,,
+,"Average offered hourly wage 10","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+A, data quality: excellent
+
+
+"Table Corrections:"
+Date,Note
+"2024-04-12","On April 12, 2024, average offered hourly wage estimates have been corrected for the Q4 2023 period. Job vacancies and proportion of job vacancies by occupation and selected characteristics have been corrected as well for a very small number of estimates for the Q4 2023 period. Selected characteristics include type of work (full-time or part-time), minimum level of education required, minimum experience level sought, duration of job vacancy, continuity of recruitment, type of position, and recruitment strategies. Please note that the estimates for job vacancies and proportion of job vacancies by occupation have not changed."
+
+
+
+Footnotes:
+1,"Data quality indicators are based on the coefficient of variation (CV), the non-response errors, the imputation errors, and subject matter expertise: A – Excellent; B - Very good; C - Good; D – Acceptable; E - Use with caution; F - Too unreliable to publish."
+2,"Data for the second and third quarters of 2020 are unavailable due to some Statistics Canada operations being temporarily suspended during the COVID-19 pandemic."
+3,"Occupation estimates are based on the <a href="https://www.statcan.gc.ca/en/subjects/standard/noc/2021/indexV1" rel="external noopener noreferrer" target="_blank">National Occupational Classification (NOC) 2021 (opens new window)</a>."
+4,"Occupations are classified based on write-in job titles and job descriptions provided by respondents. Incomplete or vague descriptions can have an impact on the accuracy of the codes assigned to occupations, especially for more detailed levels of the occupational classification. The occupational data are presented in this table according to the National Occupational Classification (NOC) 2021 version 1.0. Job vacancy data starting in 2023Q4 were coded directly to NOC 2021 version 1.0. Historical data from 2015Q1 to 2023Q3 were converted from earlier versions of the NOC standard to NOC 2021. Reasonable care should be taken when analyzing occupation codes for more detailed levels and, in particular, revised occupations codes that are split into multiple codes in the new occupation classification (NOC 2021). In such situations, users should consider using broader occupation groups."
+5,"Includes ‘Unclassified occupations'. Previously released data for the first quarter of 2015 excluded this category."
+6,"A full-time job is a job requiring 30 or more hours of work per week."
+7,"A part-time job is a job requiring less than 30 hours of work per week."
+11,"The duration of job vacancy is the number of days the job has been vacant. In the context of the Job Vacancy and Wage Survey, it refers to the number of days of active recruitment."
+12,"Starting in the first quarter of 2020, 'constantly recruiting' was removed as a response category for the duration of a job vacancy, and moved to a separate question. At the same time, the job vacancy duration category '90 days or more' was split into two new response categories: '90 to 119 days' and '120 days or more'. Comparison of this data from before and after these changes is not recommended."
+13,"Constantly recruiting means that recruitment will continue after the current vacancies are filled."
+14,"A permanent position is one that is expected to last as long as the employee wants it, given that business conditions permit. That is, there is no pre-determined termination date."
+15,"A temporary position has a predetermined end date, or will end as soon as a specified project is completed."
+16,"Some temporary jobs are seasonal when they are linked to a recurring event (for example, public holidays) or time of the year (for example, summertime)."
+17,"Recruitment strategies are methods used by the employer to fill the job vacancy. Employers can report multiple strategies."
+8,"A job is vacant if it meets the following conditions: it is vacant on the reference date (first day of the month) or will become vacant during the month; there are tasks to be carried out during the month for the job in question; and the employer is actively seeking a worker outside the organization to fill the job. The jobs could be full-time, part-time, permanent, temporary, casual, or seasonal. Jobs reserved for subcontractors, external consultants, or other workers who are not considered employees, are excluded."
+9,"The proportion of job vacancies is the number of job vacancies expressed as a percentage of all vacant jobs in the quarter, except for the proportion of seasonal job vacancies, which is the number of seasonal job vacancies expressed as a percentage of temporary job vacancies in the quarter."
+10,"The average hourly wage offered by employers for vacant positions. It excludes overtime, tips, commissions and bonuses. Salaries are converted to hourly wages based on information regarding the frequency of pay and the expected average number of hours worked per week. The offered wage may be different from the actual wage paid once the position is filled. If the salary is different among the job vacancies for the same occupation, the respondent is asked to report the lowest wage or salary. When the compensation advertised for the job vacancy is in the form of a salary range or an hourly pay range, the respondent is asked to report the lowest value of the range. If the work will be paid based on, for example, the number of parts produced, mileage or the number of times a task is performed, the respondent is asked to report the expected minimum salary."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0443-01  Job vacancies, proportion of job vacancies and average offered hourly wage by occupation and selected characteristics, quarterly, unadjusted for seasonality"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410044301

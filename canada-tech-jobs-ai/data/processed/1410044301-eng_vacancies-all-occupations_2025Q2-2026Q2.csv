@@ -1,0 +1,631 @@
+occupation,characteristic,statistic,unit,period,value,flag
+"Total, all occupations","Type of work, all types",Job vacancies,Number,Q2 2025,545910,A
+"Total, all occupations","Type of work, all types",Job vacancies,Number,Q3 2025,514465,A
+"Total, all occupations","Type of work, all types",Job vacancies,Number,Q4 2025,469840,A
+"Total, all occupations","Type of work, all types",Job vacancies,Number,Q1 2026,473035,A
+"Total, all occupations","Type of work, all types",Job vacancies,Number,Q2 2026,548400,A
+"Total, all occupations","Type of work, all types",Proportion of job vacancies,Percent,Q2 2025,100.0,
+"Total, all occupations","Type of work, all types",Proportion of job vacancies,Percent,Q3 2025,100.0,
+"Total, all occupations","Type of work, all types",Proportion of job vacancies,Percent,Q4 2025,100.0,
+"Total, all occupations","Type of work, all types",Proportion of job vacancies,Percent,Q1 2026,100.0,
+"Total, all occupations","Type of work, all types",Proportion of job vacancies,Percent,Q2 2026,100.0,
+"Total, all occupations","Type of work, all types",Average offered hourly wage,Dollars,Q2 2025,28.00,A
+"Total, all occupations","Type of work, all types",Average offered hourly wage,Dollars,Q3 2025,28.45,A
+"Total, all occupations","Type of work, all types",Average offered hourly wage,Dollars,Q4 2025,29.25,A
+"Total, all occupations","Type of work, all types",Average offered hourly wage,Dollars,Q1 2026,29.55,A
+"Total, all occupations","Type of work, all types",Average offered hourly wage,Dollars,Q2 2026,28.55,A
+"Total, all occupations",Full-time,Job vacancies,Number,Q2 2025,408790,A
+"Total, all occupations",Full-time,Job vacancies,Number,Q3 2025,380525,A
+"Total, all occupations",Full-time,Job vacancies,Number,Q4 2025,342995,A
+"Total, all occupations",Full-time,Job vacancies,Number,Q1 2026,358090,A
+"Total, all occupations",Full-time,Job vacancies,Number,Q2 2026,408100,A
+"Total, all occupations",Full-time,Proportion of job vacancies,Percent,Q2 2025,74.9,A
+"Total, all occupations",Full-time,Proportion of job vacancies,Percent,Q3 2025,74.0,A
+"Total, all occupations",Full-time,Proportion of job vacancies,Percent,Q4 2025,73.0,A
+"Total, all occupations",Full-time,Proportion of job vacancies,Percent,Q1 2026,75.7,A
+"Total, all occupations",Full-time,Proportion of job vacancies,Percent,Q2 2026,74.4,A
+"Total, all occupations",Full-time,Average offered hourly wage,Dollars,Q2 2025,29.55,A
+"Total, all occupations",Full-time,Average offered hourly wage,Dollars,Q3 2025,30.30,A
+"Total, all occupations",Full-time,Average offered hourly wage,Dollars,Q4 2025,31.20,A
+"Total, all occupations",Full-time,Average offered hourly wage,Dollars,Q1 2026,31.25,A
+"Total, all occupations",Full-time,Average offered hourly wage,Dollars,Q2 2026,30.40,A
+"Total, all occupations",Part-time,Job vacancies,Number,Q2 2025,137115,A
+"Total, all occupations",Part-time,Job vacancies,Number,Q3 2025,133940,A
+"Total, all occupations",Part-time,Job vacancies,Number,Q4 2025,126845,A
+"Total, all occupations",Part-time,Job vacancies,Number,Q1 2026,114940,A
+"Total, all occupations",Part-time,Job vacancies,Number,Q2 2026,140300,A
+"Total, all occupations",Part-time,Proportion of job vacancies,Percent,Q2 2025,25.1,A
+"Total, all occupations",Part-time,Proportion of job vacancies,Percent,Q3 2025,26.0,A
+"Total, all occupations",Part-time,Proportion of job vacancies,Percent,Q4 2025,27.0,A
+"Total, all occupations",Part-time,Proportion of job vacancies,Percent,Q1 2026,24.3,A
+"Total, all occupations",Part-time,Proportion of job vacancies,Percent,Q2 2026,25.6,A
+"Total, all occupations",Part-time,Average offered hourly wage,Dollars,Q2 2025,23.30,A
+"Total, all occupations",Part-time,Average offered hourly wage,Dollars,Q3 2025,23.10,A
+"Total, all occupations",Part-time,Average offered hourly wage,Dollars,Q4 2025,24.05,A
+"Total, all occupations",Part-time,Average offered hourly wage,Dollars,Q1 2026,24.25,A
+"Total, all occupations",Part-time,Average offered hourly wage,Dollars,Q2 2026,23.20,A
+"Total, all occupations","Minimum level of education required, all levels",Job vacancies,Number,Q2 2025,545910,A
+"Total, all occupations","Minimum level of education required, all levels",Job vacancies,Number,Q3 2025,514465,A
+"Total, all occupations","Minimum level of education required, all levels",Job vacancies,Number,Q4 2025,469840,A
+"Total, all occupations","Minimum level of education required, all levels",Job vacancies,Number,Q1 2026,473035,A
+"Total, all occupations","Minimum level of education required, all levels",Job vacancies,Number,Q2 2026,548400,A
+"Total, all occupations","Minimum level of education required, all levels",Proportion of job vacancies,Percent,Q2 2025,100.0,
+"Total, all occupations","Minimum level of education required, all levels",Proportion of job vacancies,Percent,Q3 2025,100.0,
+"Total, all occupations","Minimum level of education required, all levels",Proportion of job vacancies,Percent,Q4 2025,100.0,
+"Total, all occupations","Minimum level of education required, all levels",Proportion of job vacancies,Percent,Q1 2026,100.0,
+"Total, all occupations","Minimum level of education required, all levels",Proportion of job vacancies,Percent,Q2 2026,100.0,
+"Total, all occupations","Minimum level of education required, all levels",Average offered hourly wage,Dollars,Q2 2025,28.00,A
+"Total, all occupations","Minimum level of education required, all levels",Average offered hourly wage,Dollars,Q3 2025,28.45,A
+"Total, all occupations","Minimum level of education required, all levels",Average offered hourly wage,Dollars,Q4 2025,29.25,A
+"Total, all occupations","Minimum level of education required, all levels",Average offered hourly wage,Dollars,Q1 2026,29.55,A
+"Total, all occupations","Minimum level of education required, all levels",Average offered hourly wage,Dollars,Q2 2026,28.55,A
+"Total, all occupations",No minimum level of education required,Job vacancies,Number,Q2 2025,150415,A
+"Total, all occupations",No minimum level of education required,Job vacancies,Number,Q3 2025,144140,A
+"Total, all occupations",No minimum level of education required,Job vacancies,Number,Q4 2025,125815,A
+"Total, all occupations",No minimum level of education required,Job vacancies,Number,Q1 2026,116855,A
+"Total, all occupations",No minimum level of education required,Job vacancies,Number,Q2 2026,160740,A
+"Total, all occupations",No minimum level of education required,Proportion of job vacancies,Percent,Q2 2025,27.6,A
+"Total, all occupations",No minimum level of education required,Proportion of job vacancies,Percent,Q3 2025,28.0,A
+"Total, all occupations",No minimum level of education required,Proportion of job vacancies,Percent,Q4 2025,26.8,A
+"Total, all occupations",No minimum level of education required,Proportion of job vacancies,Percent,Q1 2026,24.7,A
+"Total, all occupations",No minimum level of education required,Proportion of job vacancies,Percent,Q2 2026,29.3,A
+"Total, all occupations",No minimum level of education required,Average offered hourly wage,Dollars,Q2 2025,20.45,A
+"Total, all occupations",No minimum level of education required,Average offered hourly wage,Dollars,Q3 2025,20.70,A
+"Total, all occupations",No minimum level of education required,Average offered hourly wage,Dollars,Q4 2025,20.85,A
+"Total, all occupations",No minimum level of education required,Average offered hourly wage,Dollars,Q1 2026,21.35,A
+"Total, all occupations",No minimum level of education required,Average offered hourly wage,Dollars,Q2 2026,20.90,A
+"Total, all occupations",High school diploma or equivalent,Job vacancies,Number,Q2 2025,138160,A
+"Total, all occupations",High school diploma or equivalent,Job vacancies,Number,Q3 2025,123000,A
+"Total, all occupations",High school diploma or equivalent,Job vacancies,Number,Q4 2025,109125,A
+"Total, all occupations",High school diploma or equivalent,Job vacancies,Number,Q1 2026,115240,A
+"Total, all occupations",High school diploma or equivalent,Job vacancies,Number,Q2 2026,135015,A
+"Total, all occupations",High school diploma or equivalent,Proportion of job vacancies,Percent,Q2 2025,25.3,A
+"Total, all occupations",High school diploma or equivalent,Proportion of job vacancies,Percent,Q3 2025,23.9,A
+"Total, all occupations",High school diploma or equivalent,Proportion of job vacancies,Percent,Q4 2025,23.2,A
+"Total, all occupations",High school diploma or equivalent,Proportion of job vacancies,Percent,Q1 2026,24.4,A
+"Total, all occupations",High school diploma or equivalent,Proportion of job vacancies,Percent,Q2 2026,24.6,A
+"Total, all occupations",High school diploma or equivalent,Average offered hourly wage,Dollars,Q2 2025,22.95,A
+"Total, all occupations",High school diploma or equivalent,Average offered hourly wage,Dollars,Q3 2025,23.35,A
+"Total, all occupations",High school diploma or equivalent,Average offered hourly wage,Dollars,Q4 2025,23.95,A
+"Total, all occupations",High school diploma or equivalent,Average offered hourly wage,Dollars,Q1 2026,24.00,A
+"Total, all occupations",High school diploma or equivalent,Average offered hourly wage,Dollars,Q2 2026,23.85,A
+"Total, all occupations",Non-university certificate or diploma,Job vacancies,Number,Q2 2025,151215,A
+"Total, all occupations",Non-university certificate or diploma,Job vacancies,Number,Q3 2025,144670,A
+"Total, all occupations",Non-university certificate or diploma,Job vacancies,Number,Q4 2025,135960,A
+"Total, all occupations",Non-university certificate or diploma,Job vacancies,Number,Q1 2026,139025,A
+"Total, all occupations",Non-university certificate or diploma,Job vacancies,Number,Q2 2026,150310,A
+"Total, all occupations",Non-university certificate or diploma,Proportion of job vacancies,Percent,Q2 2025,27.7,A
+"Total, all occupations",Non-university certificate or diploma,Proportion of job vacancies,Percent,Q3 2025,28.1,A
+"Total, all occupations",Non-university certificate or diploma,Proportion of job vacancies,Percent,Q4 2025,28.9,A
+"Total, all occupations",Non-university certificate or diploma,Proportion of job vacancies,Percent,Q1 2026,29.4,A
+"Total, all occupations",Non-university certificate or diploma,Proportion of job vacancies,Percent,Q2 2026,27.4,A
+"Total, all occupations",Non-university certificate or diploma,Average offered hourly wage,Dollars,Q2 2025,30.10,A
+"Total, all occupations",Non-university certificate or diploma,Average offered hourly wage,Dollars,Q3 2025,30.75,A
+"Total, all occupations",Non-university certificate or diploma,Average offered hourly wage,Dollars,Q4 2025,31.00,A
+"Total, all occupations",Non-university certificate or diploma,Average offered hourly wage,Dollars,Q1 2026,31.25,A
+"Total, all occupations",Non-university certificate or diploma,Average offered hourly wage,Dollars,Q2 2026,31.05,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Job vacancies,Number,Q2 2025,19905,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Job vacancies,Number,Q3 2025,22090,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Job vacancies,Number,Q4 2025,19575,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Job vacancies,Number,Q1 2026,20790,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Job vacancies,Number,Q2 2026,21120,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Proportion of job vacancies,Percent,Q2 2025,3.6,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Proportion of job vacancies,Percent,Q3 2025,4.3,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Proportion of job vacancies,Percent,Q4 2025,4.2,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Proportion of job vacancies,Percent,Q1 2026,4.4,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Proportion of job vacancies,Percent,Q2 2026,3.9,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Average offered hourly wage,Dollars,Q2 2025,36.60,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Average offered hourly wage,Dollars,Q3 2025,35.85,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Average offered hourly wage,Dollars,Q4 2025,36.40,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Average offered hourly wage,Dollars,Q1 2026,36.70,A
+"Total, all occupations",University certificate or diploma below bachelor's level,Average offered hourly wage,Dollars,Q2 2026,36.40,A
+"Total, all occupations",Bachelor's degree,Job vacancies,Number,Q2 2025,68585,A
+"Total, all occupations",Bachelor's degree,Job vacancies,Number,Q3 2025,63465,A
+"Total, all occupations",Bachelor's degree,Job vacancies,Number,Q4 2025,63455,A
+"Total, all occupations",Bachelor's degree,Job vacancies,Number,Q1 2026,65295,A
+"Total, all occupations",Bachelor's degree,Job vacancies,Number,Q2 2026,65095,A
+"Total, all occupations",Bachelor's degree,Proportion of job vacancies,Percent,Q2 2025,12.6,A
+"Total, all occupations",Bachelor's degree,Proportion of job vacancies,Percent,Q3 2025,12.3,A
+"Total, all occupations",Bachelor's degree,Proportion of job vacancies,Percent,Q4 2025,13.5,A
+"Total, all occupations",Bachelor's degree,Proportion of job vacancies,Percent,Q1 2026,13.8,A
+"Total, all occupations",Bachelor's degree,Proportion of job vacancies,Percent,Q2 2026,11.9,A
+"Total, all occupations",Bachelor's degree,Average offered hourly wage,Dollars,Q2 2025,42.90,A
+"Total, all occupations",Bachelor's degree,Average offered hourly wage,Dollars,Q3 2025,42.85,A
+"Total, all occupations",Bachelor's degree,Average offered hourly wage,Dollars,Q4 2025,44.05,A
+"Total, all occupations",Bachelor's degree,Average offered hourly wage,Dollars,Q1 2026,43.60,A
+"Total, all occupations",Bachelor's degree,Average offered hourly wage,Dollars,Q2 2026,44.05,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Job vacancies,Number,Q2 2025,17635,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Job vacancies,Number,Q3 2025,17105,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Job vacancies,Number,Q4 2025,15910,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Job vacancies,Number,Q1 2026,15825,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Job vacancies,Number,Q2 2026,16110,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Proportion of job vacancies,Percent,Q2 2025,3.2,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Proportion of job vacancies,Percent,Q3 2025,3.3,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Proportion of job vacancies,Percent,Q4 2025,3.4,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Proportion of job vacancies,Percent,Q1 2026,3.3,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Proportion of job vacancies,Percent,Q2 2026,2.9,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Average offered hourly wage,Dollars,Q2 2025,46.40,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Average offered hourly wage,Dollars,Q3 2025,47.35,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Average offered hourly wage,Dollars,Q4 2025,49.60,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Average offered hourly wage,Dollars,Q1 2026,47.85,A
+"Total, all occupations","University certificate, diploma or degree above the bachelor's level",Average offered hourly wage,Dollars,Q2 2026,48.85,A
+"Total, all occupations","Minimum experience level sought, all levels",Job vacancies,Number,Q2 2025,545910,A
+"Total, all occupations","Minimum experience level sought, all levels",Job vacancies,Number,Q3 2025,514465,A
+"Total, all occupations","Minimum experience level sought, all levels",Job vacancies,Number,Q4 2025,469840,A
+"Total, all occupations","Minimum experience level sought, all levels",Job vacancies,Number,Q1 2026,473035,A
+"Total, all occupations","Minimum experience level sought, all levels",Job vacancies,Number,Q2 2026,548400,A
+"Total, all occupations","Minimum experience level sought, all levels",Proportion of job vacancies,Percent,Q2 2025,100.0,
+"Total, all occupations","Minimum experience level sought, all levels",Proportion of job vacancies,Percent,Q3 2025,100.0,
+"Total, all occupations","Minimum experience level sought, all levels",Proportion of job vacancies,Percent,Q4 2025,100.0,
+"Total, all occupations","Minimum experience level sought, all levels",Proportion of job vacancies,Percent,Q1 2026,100.0,
+"Total, all occupations","Minimum experience level sought, all levels",Proportion of job vacancies,Percent,Q2 2026,100.0,
+"Total, all occupations","Minimum experience level sought, all levels",Average offered hourly wage,Dollars,Q2 2025,28.00,A
+"Total, all occupations","Minimum experience level sought, all levels",Average offered hourly wage,Dollars,Q3 2025,28.45,A
+"Total, all occupations","Minimum experience level sought, all levels",Average offered hourly wage,Dollars,Q4 2025,29.25,A
+"Total, all occupations","Minimum experience level sought, all levels",Average offered hourly wage,Dollars,Q1 2026,29.55,A
+"Total, all occupations","Minimum experience level sought, all levels",Average offered hourly wage,Dollars,Q2 2026,28.55,A
+"Total, all occupations",Less than 1 year,Job vacancies,Number,Q2 2025,233185,A
+"Total, all occupations",Less than 1 year,Job vacancies,Number,Q3 2025,204150,A
+"Total, all occupations",Less than 1 year,Job vacancies,Number,Q4 2025,189550,A
+"Total, all occupations",Less than 1 year,Job vacancies,Number,Q1 2026,187845,A
+"Total, all occupations",Less than 1 year,Job vacancies,Number,Q2 2026,242805,A
+"Total, all occupations",Less than 1 year,Proportion of job vacancies,Percent,Q2 2025,42.7,A
+"Total, all occupations",Less than 1 year,Proportion of job vacancies,Percent,Q3 2025,39.7,A
+"Total, all occupations",Less than 1 year,Proportion of job vacancies,Percent,Q4 2025,40.3,A
+"Total, all occupations",Less than 1 year,Proportion of job vacancies,Percent,Q1 2026,39.7,A
+"Total, all occupations",Less than 1 year,Proportion of job vacancies,Percent,Q2 2026,44.3,A
+"Total, all occupations",Less than 1 year,Average offered hourly wage,Dollars,Q2 2025,23.55,A
+"Total, all occupations",Less than 1 year,Average offered hourly wage,Dollars,Q3 2025,23.65,A
+"Total, all occupations",Less than 1 year,Average offered hourly wage,Dollars,Q4 2025,24.25,A
+"Total, all occupations",Less than 1 year,Average offered hourly wage,Dollars,Q1 2026,24.85,A
+"Total, all occupations",Less than 1 year,Average offered hourly wage,Dollars,Q2 2026,23.95,A
+"Total, all occupations",1 year to less than 3 years,Job vacancies,Number,Q2 2025,190245,A
+"Total, all occupations",1 year to less than 3 years,Job vacancies,Number,Q3 2025,185950,A
+"Total, all occupations",1 year to less than 3 years,Job vacancies,Number,Q4 2025,163220,A
+"Total, all occupations",1 year to less than 3 years,Job vacancies,Number,Q1 2026,165565,A
+"Total, all occupations",1 year to less than 3 years,Job vacancies,Number,Q2 2026,179800,A
+"Total, all occupations",1 year to less than 3 years,Proportion of job vacancies,Percent,Q2 2025,34.8,A
+"Total, all occupations",1 year to less than 3 years,Proportion of job vacancies,Percent,Q3 2025,36.1,A
+"Total, all occupations",1 year to less than 3 years,Proportion of job vacancies,Percent,Q4 2025,34.7,A
+"Total, all occupations",1 year to less than 3 years,Proportion of job vacancies,Percent,Q1 2026,35.0,A
+"Total, all occupations",1 year to less than 3 years,Proportion of job vacancies,Percent,Q2 2026,32.8,A
+"Total, all occupations",1 year to less than 3 years,Average offered hourly wage,Dollars,Q2 2025,25.95,A
+"Total, all occupations",1 year to less than 3 years,Average offered hourly wage,Dollars,Q3 2025,26.35,A
+"Total, all occupations",1 year to less than 3 years,Average offered hourly wage,Dollars,Q4 2025,26.95,A
+"Total, all occupations",1 year to less than 3 years,Average offered hourly wage,Dollars,Q1 2026,27.15,A
+"Total, all occupations",1 year to less than 3 years,Average offered hourly wage,Dollars,Q2 2026,26.70,A
+"Total, all occupations",3 years to less than 5 years,Job vacancies,Number,Q2 2025,60495,A
+"Total, all occupations",3 years to less than 5 years,Job vacancies,Number,Q3 2025,61005,A
+"Total, all occupations",3 years to less than 5 years,Job vacancies,Number,Q4 2025,56420,A
+"Total, all occupations",3 years to less than 5 years,Job vacancies,Number,Q1 2026,56990,A
+"Total, all occupations",3 years to less than 5 years,Job vacancies,Number,Q2 2026,61045,A
+"Total, all occupations",3 years to less than 5 years,Proportion of job vacancies,Percent,Q2 2025,11.1,A
+"Total, all occupations",3 years to less than 5 years,Proportion of job vacancies,Percent,Q3 2025,11.9,A
+"Total, all occupations",3 years to less than 5 years,Proportion of job vacancies,Percent,Q4 2025,12.0,A
+"Total, all occupations",3 years to less than 5 years,Proportion of job vacancies,Percent,Q1 2026,12.0,A
+"Total, all occupations",3 years to less than 5 years,Proportion of job vacancies,Percent,Q2 2026,11.1,A
+"Total, all occupations",3 years to less than 5 years,Average offered hourly wage,Dollars,Q2 2025,33.95,A
+"Total, all occupations",3 years to less than 5 years,Average offered hourly wage,Dollars,Q3 2025,34.10,A
+"Total, all occupations",3 years to less than 5 years,Average offered hourly wage,Dollars,Q4 2025,34.75,A
+"Total, all occupations",3 years to less than 5 years,Average offered hourly wage,Dollars,Q1 2026,34.35,A
+"Total, all occupations",3 years to less than 5 years,Average offered hourly wage,Dollars,Q2 2026,34.55,A
+"Total, all occupations",5 years to less than 8 years,Job vacancies,Number,Q2 2025,49645,A
+"Total, all occupations",5 years to less than 8 years,Job vacancies,Number,Q3 2025,50090,A
+"Total, all occupations",5 years to less than 8 years,Job vacancies,Number,Q4 2025,47890,A
+"Total, all occupations",5 years to less than 8 years,Job vacancies,Number,Q1 2026,48505,A
+"Total, all occupations",5 years to less than 8 years,Job vacancies,Number,Q2 2026,51010,A
+"Total, all occupations",5 years to less than 8 years,Proportion of job vacancies,Percent,Q2 2025,9.1,A
+"Total, all occupations",5 years to less than 8 years,Proportion of job vacancies,Percent,Q3 2025,9.7,A
+"Total, all occupations",5 years to less than 8 years,Proportion of job vacancies,Percent,Q4 2025,10.2,A
+"Total, all occupations",5 years to less than 8 years,Proportion of job vacancies,Percent,Q1 2026,10.3,A
+"Total, all occupations",5 years to less than 8 years,Proportion of job vacancies,Percent,Q2 2026,9.3,A
+"Total, all occupations",5 years to less than 8 years,Average offered hourly wage,Dollars,Q2 2025,42.25,A
+"Total, all occupations",5 years to less than 8 years,Average offered hourly wage,Dollars,Q3 2025,41.45,A
+"Total, all occupations",5 years to less than 8 years,Average offered hourly wage,Dollars,Q4 2025,42.90,A
+"Total, all occupations",5 years to less than 8 years,Average offered hourly wage,Dollars,Q1 2026,42.10,A
+"Total, all occupations",5 years to less than 8 years,Average offered hourly wage,Dollars,Q2 2026,41.90,A
+"Total, all occupations",8 years or more,Job vacancies,Number,Q2 2025,12340,A
+"Total, all occupations",8 years or more,Job vacancies,Number,Q3 2025,13275,A
+"Total, all occupations",8 years or more,Job vacancies,Number,Q4 2025,12755,A
+"Total, all occupations",8 years or more,Job vacancies,Number,Q1 2026,14130,A
+"Total, all occupations",8 years or more,Job vacancies,Number,Q2 2026,13740,A
+"Total, all occupations",8 years or more,Proportion of job vacancies,Percent,Q2 2025,2.3,A
+"Total, all occupations",8 years or more,Proportion of job vacancies,Percent,Q3 2025,2.6,A
+"Total, all occupations",8 years or more,Proportion of job vacancies,Percent,Q4 2025,2.7,A
+"Total, all occupations",8 years or more,Proportion of job vacancies,Percent,Q1 2026,3.0,A
+"Total, all occupations",8 years or more,Proportion of job vacancies,Percent,Q2 2026,2.5,A
+"Total, all occupations",8 years or more,Average offered hourly wage,Dollars,Q2 2025,55.95,A
+"Total, all occupations",8 years or more,Average offered hourly wage,Dollars,Q3 2025,56.20,A
+"Total, all occupations",8 years or more,Average offered hourly wage,Dollars,Q4 2025,57.70,A
+"Total, all occupations",8 years or more,Average offered hourly wage,Dollars,Q1 2026,57.50,A
+"Total, all occupations",8 years or more,Average offered hourly wage,Dollars,Q2 2026,59.15,A
+"Total, all occupations","Duration of job vacancy, all durations",Job vacancies,Number,Q2 2025,545910,A
+"Total, all occupations","Duration of job vacancy, all durations",Job vacancies,Number,Q3 2025,514465,A
+"Total, all occupations","Duration of job vacancy, all durations",Job vacancies,Number,Q4 2025,469840,A
+"Total, all occupations","Duration of job vacancy, all durations",Job vacancies,Number,Q1 2026,473035,A
+"Total, all occupations","Duration of job vacancy, all durations",Job vacancies,Number,Q2 2026,548400,A
+"Total, all occupations","Duration of job vacancy, all durations",Proportion of job vacancies,Percent,Q2 2025,100.0,
+"Total, all occupations","Duration of job vacancy, all durations",Proportion of job vacancies,Percent,Q3 2025,100.0,
+"Total, all occupations","Duration of job vacancy, all durations",Proportion of job vacancies,Percent,Q4 2025,100.0,
+"Total, all occupations","Duration of job vacancy, all durations",Proportion of job vacancies,Percent,Q1 2026,100.0,
+"Total, all occupations","Duration of job vacancy, all durations",Proportion of job vacancies,Percent,Q2 2026,100.0,
+"Total, all occupations","Duration of job vacancy, all durations",Average offered hourly wage,Dollars,Q2 2025,28.00,A
+"Total, all occupations","Duration of job vacancy, all durations",Average offered hourly wage,Dollars,Q3 2025,28.45,A
+"Total, all occupations","Duration of job vacancy, all durations",Average offered hourly wage,Dollars,Q4 2025,29.25,A
+"Total, all occupations","Duration of job vacancy, all durations",Average offered hourly wage,Dollars,Q1 2026,29.55,A
+"Total, all occupations","Duration of job vacancy, all durations",Average offered hourly wage,Dollars,Q2 2026,28.55,A
+"Total, all occupations",Less than 15 days,Job vacancies,Number,Q2 2025,146670,A
+"Total, all occupations",Less than 15 days,Job vacancies,Number,Q3 2025,135825,A
+"Total, all occupations",Less than 15 days,Job vacancies,Number,Q4 2025,111040,A
+"Total, all occupations",Less than 15 days,Job vacancies,Number,Q1 2026,122170,A
+"Total, all occupations",Less than 15 days,Job vacancies,Number,Q2 2026,147175,A
+"Total, all occupations",Less than 15 days,Proportion of job vacancies,Percent,Q2 2025,26.9,A
+"Total, all occupations",Less than 15 days,Proportion of job vacancies,Percent,Q3 2025,26.4,A
+"Total, all occupations",Less than 15 days,Proportion of job vacancies,Percent,Q4 2025,23.6,A
+"Total, all occupations",Less than 15 days,Proportion of job vacancies,Percent,Q1 2026,25.8,A
+"Total, all occupations",Less than 15 days,Proportion of job vacancies,Percent,Q2 2026,26.8,A
+"Total, all occupations",Less than 15 days,Average offered hourly wage,Dollars,Q2 2025,25.50,A
+"Total, all occupations",Less than 15 days,Average offered hourly wage,Dollars,Q3 2025,25.90,A
+"Total, all occupations",Less than 15 days,Average offered hourly wage,Dollars,Q4 2025,26.90,A
+"Total, all occupations",Less than 15 days,Average offered hourly wage,Dollars,Q1 2026,27.20,A
+"Total, all occupations",Less than 15 days,Average offered hourly wage,Dollars,Q2 2026,26.25,A
+"Total, all occupations",15 to 29 days,Job vacancies,Number,Q2 2025,106390,A
+"Total, all occupations",15 to 29 days,Job vacancies,Number,Q3 2025,104125,A
+"Total, all occupations",15 to 29 days,Job vacancies,Number,Q4 2025,91910,A
+"Total, all occupations",15 to 29 days,Job vacancies,Number,Q1 2026,91460,A
+"Total, all occupations",15 to 29 days,Job vacancies,Number,Q2 2026,110590,A
+"Total, all occupations",15 to 29 days,Proportion of job vacancies,Percent,Q2 2025,19.5,A
+"Total, all occupations",15 to 29 days,Proportion of job vacancies,Percent,Q3 2025,20.2,A
+"Total, all occupations",15 to 29 days,Proportion of job vacancies,Percent,Q4 2025,19.6,A
+"Total, all occupations",15 to 29 days,Proportion of job vacancies,Percent,Q1 2026,19.3,A
+"Total, all occupations",15 to 29 days,Proportion of job vacancies,Percent,Q2 2026,20.2,A
+"Total, all occupations",15 to 29 days,Average offered hourly wage,Dollars,Q2 2025,27.35,A
+"Total, all occupations",15 to 29 days,Average offered hourly wage,Dollars,Q3 2025,27.30,A
+"Total, all occupations",15 to 29 days,Average offered hourly wage,Dollars,Q4 2025,28.15,A
+"Total, all occupations",15 to 29 days,Average offered hourly wage,Dollars,Q1 2026,28.70,A
+"Total, all occupations",15 to 29 days,Average offered hourly wage,Dollars,Q2 2026,27.60,A
+"Total, all occupations",30 to 59 days,Job vacancies,Number,Q2 2025,94165,A
+"Total, all occupations",30 to 59 days,Job vacancies,Number,Q3 2025,90565,A
+"Total, all occupations",30 to 59 days,Job vacancies,Number,Q4 2025,85065,A
+"Total, all occupations",30 to 59 days,Job vacancies,Number,Q1 2026,84690,A
+"Total, all occupations",30 to 59 days,Job vacancies,Number,Q2 2026,100435,A
+"Total, all occupations",30 to 59 days,Proportion of job vacancies,Percent,Q2 2025,17.2,A
+"Total, all occupations",30 to 59 days,Proportion of job vacancies,Percent,Q3 2025,17.6,A
+"Total, all occupations",30 to 59 days,Proportion of job vacancies,Percent,Q4 2025,18.1,A
+"Total, all occupations",30 to 59 days,Proportion of job vacancies,Percent,Q1 2026,17.9,A
+"Total, all occupations",30 to 59 days,Proportion of job vacancies,Percent,Q2 2026,18.3,A
+"Total, all occupations",30 to 59 days,Average offered hourly wage,Dollars,Q2 2025,29.30,A
+"Total, all occupations",30 to 59 days,Average offered hourly wage,Dollars,Q3 2025,30.25,A
+"Total, all occupations",30 to 59 days,Average offered hourly wage,Dollars,Q4 2025,30.40,A
+"Total, all occupations",30 to 59 days,Average offered hourly wage,Dollars,Q1 2026,30.95,A
+"Total, all occupations",30 to 59 days,Average offered hourly wage,Dollars,Q2 2026,29.95,A
+"Total, all occupations",60 to 89 days,Job vacancies,Number,Q2 2025,48450,A
+"Total, all occupations",60 to 89 days,Job vacancies,Number,Q3 2025,44730,A
+"Total, all occupations",60 to 89 days,Job vacancies,Number,Q4 2025,47700,A
+"Total, all occupations",60 to 89 days,Job vacancies,Number,Q1 2026,42090,A
+"Total, all occupations",60 to 89 days,Job vacancies,Number,Q2 2026,48390,A
+"Total, all occupations",60 to 89 days,Proportion of job vacancies,Percent,Q2 2025,8.9,A
+"Total, all occupations",60 to 89 days,Proportion of job vacancies,Percent,Q3 2025,8.7,A
+"Total, all occupations",60 to 89 days,Proportion of job vacancies,Percent,Q4 2025,10.2,A
+"Total, all occupations",60 to 89 days,Proportion of job vacancies,Percent,Q1 2026,8.9,A
+"Total, all occupations",60 to 89 days,Proportion of job vacancies,Percent,Q2 2026,8.8,A
+"Total, all occupations",60 to 89 days,Average offered hourly wage,Dollars,Q2 2025,31.10,A
+"Total, all occupations",60 to 89 days,Average offered hourly wage,Dollars,Q3 2025,31.80,A
+"Total, all occupations",60 to 89 days,Average offered hourly wage,Dollars,Q4 2025,31.60,A
+"Total, all occupations",60 to 89 days,Average offered hourly wage,Dollars,Q1 2026,32.45,A
+"Total, all occupations",60 to 89 days,Average offered hourly wage,Dollars,Q2 2026,31.45,A
+"Total, all occupations",90 days or more,Job vacancies,Number,Q2 2025,150230,A
+"Total, all occupations",90 days or more,Job vacancies,Number,Q3 2025,139225,A
+"Total, all occupations",90 days or more,Job vacancies,Number,Q4 2025,134125,A
+"Total, all occupations",90 days or more,Job vacancies,Number,Q1 2026,132625,A
+"Total, all occupations",90 days or more,Job vacancies,Number,Q2 2026,141810,A
+"Total, all occupations",90 days or more,Proportion of job vacancies,Percent,Q2 2025,27.5,A
+"Total, all occupations",90 days or more,Proportion of job vacancies,Percent,Q3 2025,27.1,A
+"Total, all occupations",90 days or more,Proportion of job vacancies,Percent,Q4 2025,28.5,A
+"Total, all occupations",90 days or more,Proportion of job vacancies,Percent,Q1 2026,28.0,A
+"Total, all occupations",90 days or more,Proportion of job vacancies,Percent,Q2 2026,25.9,A
+"Total, all occupations",90 days or more,Average offered hourly wage,Dollars,Q2 2025,29.00,A
+"Total, all occupations",90 days or more,Average offered hourly wage,Dollars,Q3 2025,29.50,A
+"Total, all occupations",90 days or more,Average offered hourly wage,Dollars,Q4 2025,30.40,A
+"Total, all occupations",90 days or more,Average offered hourly wage,Dollars,Q1 2026,30.45,A
+"Total, all occupations",90 days or more,Average offered hourly wage,Dollars,Q2 2026,29.80,A
+"Total, all occupations",90 to 119 days,Job vacancies,Number,Q2 2025,26830,A
+"Total, all occupations",90 to 119 days,Job vacancies,Number,Q3 2025,24305,A
+"Total, all occupations",90 to 119 days,Job vacancies,Number,Q4 2025,22530,A
+"Total, all occupations",90 to 119 days,Job vacancies,Number,Q1 2026,22990,A
+"Total, all occupations",90 to 119 days,Job vacancies,Number,Q2 2026,26515,A
+"Total, all occupations",90 to 119 days,Proportion of job vacancies,Percent,Q2 2025,4.9,A
+"Total, all occupations",90 to 119 days,Proportion of job vacancies,Percent,Q3 2025,4.7,A
+"Total, all occupations",90 to 119 days,Proportion of job vacancies,Percent,Q4 2025,4.8,A
+"Total, all occupations",90 to 119 days,Proportion of job vacancies,Percent,Q1 2026,4.9,A
+"Total, all occupations",90 to 119 days,Proportion of job vacancies,Percent,Q2 2026,4.8,A
+"Total, all occupations",90 to 119 days,Average offered hourly wage,Dollars,Q2 2025,30.05,A
+"Total, all occupations",90 to 119 days,Average offered hourly wage,Dollars,Q3 2025,31.30,A
+"Total, all occupations",90 to 119 days,Average offered hourly wage,Dollars,Q4 2025,32.10,A
+"Total, all occupations",90 to 119 days,Average offered hourly wage,Dollars,Q1 2026,32.70,A
+"Total, all occupations",90 to 119 days,Average offered hourly wage,Dollars,Q2 2026,31.35,A
+"Total, all occupations",120 days or more,Job vacancies,Number,Q2 2025,123400,A
+"Total, all occupations",120 days or more,Job vacancies,Number,Q3 2025,114915,A
+"Total, all occupations",120 days or more,Job vacancies,Number,Q4 2025,111600,A
+"Total, all occupations",120 days or more,Job vacancies,Number,Q1 2026,109630,A
+"Total, all occupations",120 days or more,Job vacancies,Number,Q2 2026,115295,A
+"Total, all occupations",120 days or more,Proportion of job vacancies,Percent,Q2 2025,22.6,A
+"Total, all occupations",120 days or more,Proportion of job vacancies,Percent,Q3 2025,22.3,A
+"Total, all occupations",120 days or more,Proportion of job vacancies,Percent,Q4 2025,23.8,A
+"Total, all occupations",120 days or more,Proportion of job vacancies,Percent,Q1 2026,23.2,A
+"Total, all occupations",120 days or more,Proportion of job vacancies,Percent,Q2 2026,21.0,A
+"Total, all occupations",120 days or more,Average offered hourly wage,Dollars,Q2 2025,28.75,A
+"Total, all occupations",120 days or more,Average offered hourly wage,Dollars,Q3 2025,29.10,A
+"Total, all occupations",120 days or more,Average offered hourly wage,Dollars,Q4 2025,30.05,A
+"Total, all occupations",120 days or more,Average offered hourly wage,Dollars,Q1 2026,29.95,A
+"Total, all occupations",120 days or more,Average offered hourly wage,Dollars,Q2 2026,29.50,A
+"Total, all occupations","Continuity of recruitment, all categories",Job vacancies,Number,Q2 2025,545910,A
+"Total, all occupations","Continuity of recruitment, all categories",Job vacancies,Number,Q3 2025,514465,A
+"Total, all occupations","Continuity of recruitment, all categories",Job vacancies,Number,Q4 2025,469840,A
+"Total, all occupations","Continuity of recruitment, all categories",Job vacancies,Number,Q1 2026,473035,A
+"Total, all occupations","Continuity of recruitment, all categories",Job vacancies,Number,Q2 2026,548400,A
+"Total, all occupations","Continuity of recruitment, all categories",Proportion of job vacancies,Percent,Q2 2025,100.0,
+"Total, all occupations","Continuity of recruitment, all categories",Proportion of job vacancies,Percent,Q3 2025,100.0,
+"Total, all occupations","Continuity of recruitment, all categories",Proportion of job vacancies,Percent,Q4 2025,100.0,
+"Total, all occupations","Continuity of recruitment, all categories",Proportion of job vacancies,Percent,Q1 2026,100.0,
+"Total, all occupations","Continuity of recruitment, all categories",Proportion of job vacancies,Percent,Q2 2026,100.0,
+"Total, all occupations","Continuity of recruitment, all categories",Average offered hourly wage,Dollars,Q2 2025,28.00,A
+"Total, all occupations","Continuity of recruitment, all categories",Average offered hourly wage,Dollars,Q3 2025,28.45,A
+"Total, all occupations","Continuity of recruitment, all categories",Average offered hourly wage,Dollars,Q4 2025,29.25,A
+"Total, all occupations","Continuity of recruitment, all categories",Average offered hourly wage,Dollars,Q1 2026,29.55,A
+"Total, all occupations","Continuity of recruitment, all categories",Average offered hourly wage,Dollars,Q2 2026,28.55,A
+"Total, all occupations",Constantly recruiting,Job vacancies,Number,Q2 2025,232015,A
+"Total, all occupations",Constantly recruiting,Job vacancies,Number,Q3 2025,222810,A
+"Total, all occupations",Constantly recruiting,Job vacancies,Number,Q4 2025,203165,A
+"Total, all occupations",Constantly recruiting,Job vacancies,Number,Q1 2026,198460,A
+"Total, all occupations",Constantly recruiting,Job vacancies,Number,Q2 2026,220330,A
+"Total, all occupations",Constantly recruiting,Proportion of job vacancies,Percent,Q2 2025,42.5,A
+"Total, all occupations",Constantly recruiting,Proportion of job vacancies,Percent,Q3 2025,43.3,A
+"Total, all occupations",Constantly recruiting,Proportion of job vacancies,Percent,Q4 2025,43.2,A
+"Total, all occupations",Constantly recruiting,Proportion of job vacancies,Percent,Q1 2026,42.0,A
+"Total, all occupations",Constantly recruiting,Proportion of job vacancies,Percent,Q2 2026,40.2,A
+"Total, all occupations",Constantly recruiting,Average offered hourly wage,Dollars,Q2 2025,26.50,A
+"Total, all occupations",Constantly recruiting,Average offered hourly wage,Dollars,Q3 2025,26.55,A
+"Total, all occupations",Constantly recruiting,Average offered hourly wage,Dollars,Q4 2025,27.45,A
+"Total, all occupations",Constantly recruiting,Average offered hourly wage,Dollars,Q1 2026,27.75,A
+"Total, all occupations",Constantly recruiting,Average offered hourly wage,Dollars,Q2 2026,26.90,A
+"Total, all occupations",Not constantly recruiting,Job vacancies,Number,Q2 2025,313895,A
+"Total, all occupations",Not constantly recruiting,Job vacancies,Number,Q3 2025,291655,A
+"Total, all occupations",Not constantly recruiting,Job vacancies,Number,Q4 2025,266680,A
+"Total, all occupations",Not constantly recruiting,Job vacancies,Number,Q1 2026,274570,A
+"Total, all occupations",Not constantly recruiting,Job vacancies,Number,Q2 2026,328070,A
+"Total, all occupations",Not constantly recruiting,Proportion of job vacancies,Percent,Q2 2025,57.5,A
+"Total, all occupations",Not constantly recruiting,Proportion of job vacancies,Percent,Q3 2025,56.7,A
+"Total, all occupations",Not constantly recruiting,Proportion of job vacancies,Percent,Q4 2025,56.8,A
+"Total, all occupations",Not constantly recruiting,Proportion of job vacancies,Percent,Q1 2026,58.0,A
+"Total, all occupations",Not constantly recruiting,Proportion of job vacancies,Percent,Q2 2026,59.8,A
+"Total, all occupations",Not constantly recruiting,Average offered hourly wage,Dollars,Q2 2025,29.10,A
+"Total, all occupations",Not constantly recruiting,Average offered hourly wage,Dollars,Q3 2025,29.85,A
+"Total, all occupations",Not constantly recruiting,Average offered hourly wage,Dollars,Q4 2025,30.60,A
+"Total, all occupations",Not constantly recruiting,Average offered hourly wage,Dollars,Q1 2026,30.85,A
+"Total, all occupations",Not constantly recruiting,Average offered hourly wage,Dollars,Q2 2026,29.70,A
+"Total, all occupations","Type of position, all types",Job vacancies,Number,Q2 2025,545910,A
+"Total, all occupations","Type of position, all types",Job vacancies,Number,Q3 2025,514465,A
+"Total, all occupations","Type of position, all types",Job vacancies,Number,Q4 2025,469840,A
+"Total, all occupations","Type of position, all types",Job vacancies,Number,Q1 2026,473035,A
+"Total, all occupations","Type of position, all types",Job vacancies,Number,Q2 2026,548400,A
+"Total, all occupations","Type of position, all types",Proportion of job vacancies,Percent,Q2 2025,100.0,
+"Total, all occupations","Type of position, all types",Proportion of job vacancies,Percent,Q3 2025,100.0,
+"Total, all occupations","Type of position, all types",Proportion of job vacancies,Percent,Q4 2025,100.0,
+"Total, all occupations","Type of position, all types",Proportion of job vacancies,Percent,Q1 2026,100.0,
+"Total, all occupations","Type of position, all types",Proportion of job vacancies,Percent,Q2 2026,100.0,
+"Total, all occupations","Type of position, all types",Average offered hourly wage,Dollars,Q2 2025,28.00,A
+"Total, all occupations","Type of position, all types",Average offered hourly wage,Dollars,Q3 2025,28.45,A
+"Total, all occupations","Type of position, all types",Average offered hourly wage,Dollars,Q4 2025,29.25,A
+"Total, all occupations","Type of position, all types",Average offered hourly wage,Dollars,Q1 2026,29.55,A
+"Total, all occupations","Type of position, all types",Average offered hourly wage,Dollars,Q2 2026,28.55,A
+"Total, all occupations",Permanent,Job vacancies,Number,Q2 2025,429780,A
+"Total, all occupations",Permanent,Job vacancies,Number,Q3 2025,427345,A
+"Total, all occupations",Permanent,Job vacancies,Number,Q4 2025,389095,A
+"Total, all occupations",Permanent,Job vacancies,Number,Q1 2026,392585,A
+"Total, all occupations",Permanent,Job vacancies,Number,Q2 2026,428200,A
+"Total, all occupations",Permanent,Proportion of job vacancies,Percent,Q2 2025,78.7,A
+"Total, all occupations",Permanent,Proportion of job vacancies,Percent,Q3 2025,83.1,A
+"Total, all occupations",Permanent,Proportion of job vacancies,Percent,Q4 2025,82.8,A
+"Total, all occupations",Permanent,Proportion of job vacancies,Percent,Q1 2026,83.0,A
+"Total, all occupations",Permanent,Proportion of job vacancies,Percent,Q2 2026,78.1,A
+"Total, all occupations",Permanent,Average offered hourly wage,Dollars,Q2 2025,28.95,A
+"Total, all occupations",Permanent,Average offered hourly wage,Dollars,Q3 2025,28.95,A
+"Total, all occupations",Permanent,Average offered hourly wage,Dollars,Q4 2025,29.75,A
+"Total, all occupations",Permanent,Average offered hourly wage,Dollars,Q1 2026,30.05,A
+"Total, all occupations",Permanent,Average offered hourly wage,Dollars,Q2 2026,29.55,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Job vacancies,Number,Q2 2025,116130,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Job vacancies,Number,Q3 2025,87120,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Job vacancies,Number,Q4 2025,80745,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Job vacancies,Number,Q1 2026,80450,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Job vacancies,Number,Q2 2026,120200,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Proportion of job vacancies,Percent,Q2 2025,21.3,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Proportion of job vacancies,Percent,Q3 2025,16.9,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Proportion of job vacancies,Percent,Q4 2025,17.2,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Proportion of job vacancies,Percent,Q1 2026,17.0,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Proportion of job vacancies,Percent,Q2 2026,21.9,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Average offered hourly wage,Dollars,Q2 2025,24.35,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Average offered hourly wage,Dollars,Q3 2025,25.95,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Average offered hourly wage,Dollars,Q4 2025,26.80,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Average offered hourly wage,Dollars,Q1 2026,27.15,A
+"Total, all occupations",Temporary (seasonal and non-seasonal),Average offered hourly wage,Dollars,Q2 2026,25.00,A
+"Total, all occupations",Seasonal,Job vacancies,Number,Q2 2025,83565,A
+"Total, all occupations",Seasonal,Job vacancies,Number,Q3 2025,52850,A
+"Total, all occupations",Seasonal,Job vacancies,Number,Q4 2025,48275,A
+"Total, all occupations",Seasonal,Job vacancies,Number,Q1 2026,47260,A
+"Total, all occupations",Seasonal,Job vacancies,Number,Q2 2026,84385,A
+"Total, all occupations",Seasonal,Proportion of job vacancies,Percent,Q2 2025,72.0,A
+"Total, all occupations",Seasonal,Proportion of job vacancies,Percent,Q3 2025,60.7,A
+"Total, all occupations",Seasonal,Proportion of job vacancies,Percent,Q4 2025,59.8,A
+"Total, all occupations",Seasonal,Proportion of job vacancies,Percent,Q1 2026,58.7,A
+"Total, all occupations",Seasonal,Proportion of job vacancies,Percent,Q2 2026,70.2,A
+"Total, all occupations",Seasonal,Average offered hourly wage,Dollars,Q2 2025,22.70,A
+"Total, all occupations",Seasonal,Average offered hourly wage,Dollars,Q3 2025,24.35,A
+"Total, all occupations",Seasonal,Average offered hourly wage,Dollars,Q4 2025,25.10,A
+"Total, all occupations",Seasonal,Average offered hourly wage,Dollars,Q1 2026,25.40,A
+"Total, all occupations",Seasonal,Average offered hourly wage,Dollars,Q2 2026,23.50,A
+"Total, all occupations","Recruitment strategies, all types",Job vacancies,Number,Q2 2025,545910,A
+"Total, all occupations","Recruitment strategies, all types",Job vacancies,Number,Q3 2025,514465,A
+"Total, all occupations","Recruitment strategies, all types",Job vacancies,Number,Q4 2025,469840,A
+"Total, all occupations","Recruitment strategies, all types",Job vacancies,Number,Q1 2026,473035,A
+"Total, all occupations","Recruitment strategies, all types",Job vacancies,Number,Q2 2026,548400,A
+"Total, all occupations","Recruitment strategies, all types",Proportion of job vacancies,Percent,Q2 2025,100.0,
+"Total, all occupations","Recruitment strategies, all types",Proportion of job vacancies,Percent,Q3 2025,100.0,
+"Total, all occupations","Recruitment strategies, all types",Proportion of job vacancies,Percent,Q4 2025,100.0,
+"Total, all occupations","Recruitment strategies, all types",Proportion of job vacancies,Percent,Q1 2026,100.0,
+"Total, all occupations","Recruitment strategies, all types",Proportion of job vacancies,Percent,Q2 2026,100.0,
+"Total, all occupations","Recruitment strategies, all types",Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations","Recruitment strategies, all types",Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations","Recruitment strategies, all types",Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations","Recruitment strategies, all types",Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations","Recruitment strategies, all types",Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations","Personal contacts, referrals, informal networks",Job vacancies,Number,Q2 2025,393005,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Job vacancies,Number,Q3 2025,367980,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Job vacancies,Number,Q4 2025,335200,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Job vacancies,Number,Q1 2026,335560,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Job vacancies,Number,Q2 2026,393035,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Proportion of job vacancies,Percent,Q2 2025,72.0,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Proportion of job vacancies,Percent,Q3 2025,71.5,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Proportion of job vacancies,Percent,Q4 2025,71.3,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Proportion of job vacancies,Percent,Q1 2026,70.9,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Proportion of job vacancies,Percent,Q2 2026,71.7,A
+"Total, all occupations","Personal contacts, referrals, informal networks",Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations","Personal contacts, referrals, informal networks",Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations","Personal contacts, referrals, informal networks",Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations","Personal contacts, referrals, informal networks",Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations","Personal contacts, referrals, informal networks",Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Job vacancies,Number,Q2 2025,109225,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Job vacancies,Number,Q3 2025,100645,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Job vacancies,Number,Q4 2025,94350,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Job vacancies,Number,Q1 2026,91840,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Job vacancies,Number,Q2 2026,109160,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Proportion of job vacancies,Percent,Q2 2025,20.0,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Proportion of job vacancies,Percent,Q3 2025,19.6,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Proportion of job vacancies,Percent,Q4 2025,20.1,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Proportion of job vacancies,Percent,Q1 2026,19.4,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Proportion of job vacancies,Percent,Q2 2026,19.9,A
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations","Posting a help-wanted"" sign on the storefront of the location""",Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations",Company website,Job vacancies,Number,Q2 2025,350925,A
+"Total, all occupations",Company website,Job vacancies,Number,Q3 2025,335095,A
+"Total, all occupations",Company website,Job vacancies,Number,Q4 2025,321295,A
+"Total, all occupations",Company website,Job vacancies,Number,Q1 2026,319890,A
+"Total, all occupations",Company website,Job vacancies,Number,Q2 2026,355890,A
+"Total, all occupations",Company website,Proportion of job vacancies,Percent,Q2 2025,64.3,A
+"Total, all occupations",Company website,Proportion of job vacancies,Percent,Q3 2025,65.1,A
+"Total, all occupations",Company website,Proportion of job vacancies,Percent,Q4 2025,68.4,A
+"Total, all occupations",Company website,Proportion of job vacancies,Percent,Q1 2026,67.6,A
+"Total, all occupations",Company website,Proportion of job vacancies,Percent,Q2 2026,64.9,A
+"Total, all occupations",Company website,Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations",Company website,Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations",Company website,Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations",Company website,Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations",Company website,Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations",Online job boards,Job vacancies,Number,Q2 2025,430185,A
+"Total, all occupations",Online job boards,Job vacancies,Number,Q3 2025,406715,A
+"Total, all occupations",Online job boards,Job vacancies,Number,Q4 2025,378400,A
+"Total, all occupations",Online job boards,Job vacancies,Number,Q1 2026,382050,A
+"Total, all occupations",Online job boards,Job vacancies,Number,Q2 2026,429155,A
+"Total, all occupations",Online job boards,Proportion of job vacancies,Percent,Q2 2025,78.8,A
+"Total, all occupations",Online job boards,Proportion of job vacancies,Percent,Q3 2025,79.1,A
+"Total, all occupations",Online job boards,Proportion of job vacancies,Percent,Q4 2025,80.5,A
+"Total, all occupations",Online job boards,Proportion of job vacancies,Percent,Q1 2026,80.8,A
+"Total, all occupations",Online job boards,Proportion of job vacancies,Percent,Q2 2026,78.3,A
+"Total, all occupations",Online job boards,Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations",Online job boards,Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations",Online job boards,Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations",Online job boards,Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations",Online job boards,Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations",Social media,Job vacancies,Number,Q2 2025,314100,A
+"Total, all occupations",Social media,Job vacancies,Number,Q3 2025,290290,A
+"Total, all occupations",Social media,Job vacancies,Number,Q4 2025,274545,A
+"Total, all occupations",Social media,Job vacancies,Number,Q1 2026,275085,A
+"Total, all occupations",Social media,Job vacancies,Number,Q2 2026,312680,A
+"Total, all occupations",Social media,Proportion of job vacancies,Percent,Q2 2025,57.5,A
+"Total, all occupations",Social media,Proportion of job vacancies,Percent,Q3 2025,56.4,A
+"Total, all occupations",Social media,Proportion of job vacancies,Percent,Q4 2025,58.4,A
+"Total, all occupations",Social media,Proportion of job vacancies,Percent,Q1 2026,58.2,A
+"Total, all occupations",Social media,Proportion of job vacancies,Percent,Q2 2026,57.0,A
+"Total, all occupations",Social media,Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations",Social media,Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations",Social media,Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations",Social media,Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations",Social media,Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Job vacancies,Number,Q2 2025,154075,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Job vacancies,Number,Q3 2025,139455,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Job vacancies,Number,Q4 2025,137280,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Job vacancies,Number,Q1 2026,141960,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Job vacancies,Number,Q2 2026,149560,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Proportion of job vacancies,Percent,Q2 2025,28.2,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Proportion of job vacancies,Percent,Q3 2025,27.1,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Proportion of job vacancies,Percent,Q4 2025,29.2,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Proportion of job vacancies,Percent,Q1 2026,30.0,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Proportion of job vacancies,Percent,Q2 2026,27.3,A
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations","Job or recruitment fairs at schools, colleges or universities",Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations",Government employment centre or website,Job vacancies,Number,Q2 2025,126860,A
+"Total, all occupations",Government employment centre or website,Job vacancies,Number,Q3 2025,112050,A
+"Total, all occupations",Government employment centre or website,Job vacancies,Number,Q4 2025,106280,A
+"Total, all occupations",Government employment centre or website,Job vacancies,Number,Q1 2026,102740,A
+"Total, all occupations",Government employment centre or website,Job vacancies,Number,Q2 2026,117055,A
+"Total, all occupations",Government employment centre or website,Proportion of job vacancies,Percent,Q2 2025,23.2,A
+"Total, all occupations",Government employment centre or website,Proportion of job vacancies,Percent,Q3 2025,21.8,A
+"Total, all occupations",Government employment centre or website,Proportion of job vacancies,Percent,Q4 2025,22.6,A
+"Total, all occupations",Government employment centre or website,Proportion of job vacancies,Percent,Q1 2026,21.7,A
+"Total, all occupations",Government employment centre or website,Proportion of job vacancies,Percent,Q2 2026,21.3,A
+"Total, all occupations",Government employment centre or website,Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations",Government employment centre or website,Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations",Government employment centre or website,Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations",Government employment centre or website,Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations",Government employment centre or website,Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations","Professional networking, headhunters or employment agency",Job vacancies,Number,Q2 2025,119050,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Job vacancies,Number,Q3 2025,112490,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Job vacancies,Number,Q4 2025,104710,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Job vacancies,Number,Q1 2026,101265,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Job vacancies,Number,Q2 2026,115055,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Proportion of job vacancies,Percent,Q2 2025,21.8,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Proportion of job vacancies,Percent,Q3 2025,21.9,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Proportion of job vacancies,Percent,Q4 2025,22.3,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Proportion of job vacancies,Percent,Q1 2026,21.4,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Proportion of job vacancies,Percent,Q2 2026,21.0,A
+"Total, all occupations","Professional networking, headhunters or employment agency",Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations","Professional networking, headhunters or employment agency",Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations","Professional networking, headhunters or employment agency",Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations","Professional networking, headhunters or employment agency",Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations","Professional networking, headhunters or employment agency",Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations",Newspaper ads,Job vacancies,Number,Q2 2025,34550,A
+"Total, all occupations",Newspaper ads,Job vacancies,Number,Q3 2025,30755,A
+"Total, all occupations",Newspaper ads,Job vacancies,Number,Q4 2025,30235,A
+"Total, all occupations",Newspaper ads,Job vacancies,Number,Q1 2026,27025,A
+"Total, all occupations",Newspaper ads,Job vacancies,Number,Q2 2026,33850,A
+"Total, all occupations",Newspaper ads,Proportion of job vacancies,Percent,Q2 2025,6.3,A
+"Total, all occupations",Newspaper ads,Proportion of job vacancies,Percent,Q3 2025,6.0,A
+"Total, all occupations",Newspaper ads,Proportion of job vacancies,Percent,Q4 2025,6.4,A
+"Total, all occupations",Newspaper ads,Proportion of job vacancies,Percent,Q1 2026,5.7,A
+"Total, all occupations",Newspaper ads,Proportion of job vacancies,Percent,Q2 2026,6.2,A
+"Total, all occupations",Newspaper ads,Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations",Newspaper ads,Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations",Newspaper ads,Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations",Newspaper ads,Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations",Newspaper ads,Average offered hourly wage,Dollars,Q2 2026,,
+"Total, all occupations",Other recruitment strategies,Job vacancies,Number,Q2 2025,59275,A
+"Total, all occupations",Other recruitment strategies,Job vacancies,Number,Q3 2025,52920,A
+"Total, all occupations",Other recruitment strategies,Job vacancies,Number,Q4 2025,49845,A
+"Total, all occupations",Other recruitment strategies,Job vacancies,Number,Q1 2026,50755,A
+"Total, all occupations",Other recruitment strategies,Job vacancies,Number,Q2 2026,58365,A
+"Total, all occupations",Other recruitment strategies,Proportion of job vacancies,Percent,Q2 2025,10.9,A
+"Total, all occupations",Other recruitment strategies,Proportion of job vacancies,Percent,Q3 2025,10.3,A
+"Total, all occupations",Other recruitment strategies,Proportion of job vacancies,Percent,Q4 2025,10.6,A
+"Total, all occupations",Other recruitment strategies,Proportion of job vacancies,Percent,Q1 2026,10.7,A
+"Total, all occupations",Other recruitment strategies,Proportion of job vacancies,Percent,Q2 2026,10.6,A
+"Total, all occupations",Other recruitment strategies,Average offered hourly wage,Dollars,Q2 2025,,
+"Total, all occupations",Other recruitment strategies,Average offered hourly wage,Dollars,Q3 2025,,
+"Total, all occupations",Other recruitment strategies,Average offered hourly wage,Dollars,Q4 2025,,
+"Total, all occupations",Other recruitment strategies,Average offered hourly wage,Dollars,Q1 2026,,
+"Total, all occupations",Other recruitment strategies,Average offered hourly wage,Dollars,Q2 2026,,

@@ -1,0 +1,2 @@
+before_avg,after_avg,pct_change,baseline_before_avg,baseline_after_avg,baseline_pct_change,gap_pct_points,rest_of_market_before_avg,rest_of_market_after_avg,rest_of_market_pct_change,gap_vs_rest_of_market_pct_points
+74301.25,51696.25,-30.423445096818696,957605.0,745826.25,-22.115459923454868,-8.307985173363829,883303.75,694130.0,-21.416613480923182,-9.006831615895514
