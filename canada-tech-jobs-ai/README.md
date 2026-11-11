@@ -55,9 +55,9 @@ canada-tech-jobs-ai/
 ## Limitations
 
 - The decline in software postings started before ChatGPT's release, during the unwinding of the 2020-2022 pandemic hiring boom — the 12-month "before" window itself sits near that boom's peak, so part of the post-cutoff drop isn't specific to AI.
-- The Indeed AI Tracker's series has been revised upward on every release since mid-2025, more so for recent dates; the early flat period (AI mentions ~2% through 2023) is stable across revisions, but the steepness of the 2025-26 rise is partly a measurement artifact, not only demand (see `data/DATA_LOG.md`).
+- The Indeed AI Tracker's series has been revised upward in every version checked since mid-2025, more so for recent dates; the early flat period (AI mentions ~2% through 2023) is stable across revisions, but the steepness of the 2025-26 rise is partly a measurement artifact, not only demand (see `data/DATA_LOG.md`).
 - Both comparisons show correlation, not causation — rate hikes, tech layoffs, and immigration/population shifts happened over the same period and aren't separated out here.
 
 ## AI-use note
 
-I used Claude to help plan the study, suggest data sources and methods, write and review code, and review data and figures. The analysis, results and writing are my own.
+Claude helped plan the study, suggested data sources and methods, and helped write and review code. Claude drafted parts of the text from my outline and analysis; I edited and checked every claim against the data.
