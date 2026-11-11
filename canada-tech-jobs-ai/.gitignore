@@ -10,6 +10,3 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
-
-# Paper draft (not committed; final PDF is submitted separately)
-paper/
